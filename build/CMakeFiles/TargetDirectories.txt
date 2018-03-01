@@ -5,3 +5,12 @@
 /home/mitja/Development/hello-world/hello-again/build/CMakeFiles/install/local.dir
 /home/mitja/Development/hello-world/hello-again/build/CMakeFiles/com.github.broverbug.second_test.dir
 /home/mitja/Development/hello-world/hello-again/build/CMakeFiles/edit_cache.dir
+/home/mitja/Development/hello-world/hello-again/build/po/CMakeFiles/rebuild_cache.dir
+/home/mitja/Development/hello-world/hello-again/build/po/CMakeFiles/edit_cache.dir
+/home/mitja/Development/hello-world/hello-again/build/po/CMakeFiles/po.dir
+/home/mitja/Development/hello-world/hello-again/build/po/CMakeFiles/install.dir
+/home/mitja/Development/hello-world/hello-again/build/po/CMakeFiles/list_install_components.dir
+/home/mitja/Development/hello-world/hello-again/build/po/CMakeFiles/i18n.dir
+/home/mitja/Development/hello-world/hello-again/build/po/CMakeFiles/pot.dir
+/home/mitja/Development/hello-world/hello-again/build/po/CMakeFiles/install/local.dir
+/home/mitja/Development/hello-world/hello-again/build/po/CMakeFiles/install/strip.dir

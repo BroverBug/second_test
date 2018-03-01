@@ -49,3 +49,8 @@ install (FILES ${CMAKE_CURRENT_SOURCE_DIR}/data/com.github.broverbug.second_test
 
 # install our .appdata.xml file so AppCenter will see it
 install (FILES ${CMAKE_CURRENT_SOURCE_DIR}/data/com.github.broverbug.second_test.appdata.xml DESTINATION ${DATADIR}/metainfo/)
+
+#translation files
+set (GETTEXT_PACKAGE "${CMAKE_PROJECT_NAME}")
+add_definitions(-DGETTEXT_PACKAGE=\"{GETTEXT_PACKAGE}\")
+add_subdirectory(po)
