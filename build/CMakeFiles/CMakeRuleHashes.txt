@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+244c7c482216fe953cb09839c5dfdd22 com.github.broverbug.second_test_valac.stamp
+b56dd11184e8ac40814e1c9ffb6110d6 src/hello-again.c

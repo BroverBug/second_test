@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mitja/Development/hello-world/hello-again/build/src/hello-again.c
+glib.h
+-
+glib-object.h
+-
+gtk/gtk.h
+-
+gio/gio.h
+-
+stdlib.h
+-
+string.h
+-
+

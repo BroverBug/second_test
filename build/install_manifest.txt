@@ -1,0 +1,3 @@
+/usr/local/bin/com.github.broverbug.second_test
+/usr/local/share/applications/com.github.broverbug.second_test.desktop
+/usr/local/share/metainfo/com.github.broverbug.second_test.appdata.xml

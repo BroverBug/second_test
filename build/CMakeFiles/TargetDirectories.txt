@@ -1,0 +1,7 @@
+/home/mitja/Development/hello-world/hello-again/build/CMakeFiles/install.dir
+/home/mitja/Development/hello-world/hello-again/build/CMakeFiles/list_install_components.dir
+/home/mitja/Development/hello-world/hello-again/build/CMakeFiles/rebuild_cache.dir
+/home/mitja/Development/hello-world/hello-again/build/CMakeFiles/install/strip.dir
+/home/mitja/Development/hello-world/hello-again/build/CMakeFiles/install/local.dir
+/home/mitja/Development/hello-world/hello-again/build/CMakeFiles/com.github.broverbug.second_test.dir
+/home/mitja/Development/hello-world/hello-again/build/CMakeFiles/edit_cache.dir
